@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#80000000" /> <!-- Cambia el color de fondo semitransparente según tus necesidades -->
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/background_image"
+            android:gravity="center" />
+    </item>
+</layer-list>
